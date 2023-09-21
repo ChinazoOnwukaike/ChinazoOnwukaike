@@ -23,6 +23,7 @@
 | Job Position | Company | Work Period |
 | :-----------: | :-----------: | :-----------: |
 |**Software Engineering Fellow**|**Lemontree Foods**|**08-2023-now**|
+|Frontend Engineer|PlayAid|05/2023-08/2023|
 |Site Reliability/Software Engineering Intern|Indeed|08-2022-01/2023|
 
 <h2>Projects</h2>
